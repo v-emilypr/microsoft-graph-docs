@@ -53,6 +53,8 @@ Each **delegatedAdminRelationshipRequest** object contains an **@odata.etag** pr
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_delegatedadminrelationshiprequest"
@@ -61,6 +63,12 @@ Each **delegatedAdminRelationshipRequest** object contains an **@odata.etag** pr
 ``` http
 GET https://graph.microsoft.com/beta/tenantRelationships/delegatedAdminRelationships/5d027261-d21f-4aa9-b7db-7fa1f56fb163-8777b240-c6f0-4469-9e98-a3205431b836/requests
 ```
+# [Java](#tab/java)
+[!INCLUDE [sample-code](../includes/snippets/java/list-delegatedadminrelationshiprequest-java-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response
