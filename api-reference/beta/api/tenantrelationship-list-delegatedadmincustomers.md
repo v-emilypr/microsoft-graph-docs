@@ -55,6 +55,8 @@ Each **delegatedAdminCustomer** object contains an **@odata.etag** property as p
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "list_delegatedadmincustomer"
@@ -63,6 +65,12 @@ Each **delegatedAdminCustomer** object contains an **@odata.etag** property as p
 ``` http
 GET https://graph.microsoft.com/beta/tenantRelationships/delegatedAdminCustomers
 ```
+# [Java](#tab/java)
+[!INCLUDE [sample-code](../includes/snippets/java/list-delegatedadmincustomer-java-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response
