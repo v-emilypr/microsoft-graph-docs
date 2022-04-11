@@ -92,6 +92,10 @@ GET https://graph.microsoft.com/beta/me/profile/addresses
 [!INCLUDE [sample-code](../includes/snippets/powershell/get-itemaddresses-from-profile-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [TypeScript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-itemaddresses-from-profile-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ### Response
