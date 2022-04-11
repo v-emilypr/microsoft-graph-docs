@@ -85,6 +85,10 @@ GET https://graph.microsoft.com/beta/search/bookmarks
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-bookmark-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [TypeScript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-bookmark-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
