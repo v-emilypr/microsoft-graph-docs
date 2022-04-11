@@ -87,6 +87,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/synchronizationjob-validatecredentials-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [TypeScript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/synchronizationjob-validatecredentials-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
